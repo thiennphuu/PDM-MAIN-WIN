@@ -2,6 +2,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
+//dsafkhk
 
 public class DatabaseConnection {
     private static final String URL = "jdbc:sqlserver://localhost:1433;databaseName=WAREHOUSE_MANAGEMENT;encrypt=true;trustServerCertificate=true";

@@ -10,7 +10,7 @@ import java.sql.SQLException;
 class WarehouseManagementApp extends JFrame {
     private JTextField supplierNameField, productNameField, productPriceField, orderCustomerIdField;
     private JTextArea itemListArea;
-
+//fewfwgwrgr
     public WarehouseManagementApp() {
         setTitle("Warehouse Management System");
         setSize(500, 400);

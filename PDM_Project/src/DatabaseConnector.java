@@ -3,6 +3,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
+//âs
 public class DatabaseConnector {
 
     private static final String DB_URL = "jdbc:sqlserver://localhost:1433;databaseName=InventoryDB";
